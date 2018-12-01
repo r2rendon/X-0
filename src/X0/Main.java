@@ -9,11 +9,11 @@ public class Main {
         int op;
         try{
          do{   
-        System.out.println("JUEGO DE \"x\" Y \"0\"" );
+        System.out.println("X-0" );
         System.out.println("1. Jugar"
-                + "\n2 .ver partidas"
-                + "\n3. Cambiar letra del Jugador"
-                + "\n4. Cambiar Nombre del jugador "
+                + "\n2. Ver partidas"
+                + "\n3. Cambiar simbolo del jugador"
+                + "\n4. Cambiar nombre del jugador "
         +"\n5. Salir");
         op=leer.nextInt();
         
